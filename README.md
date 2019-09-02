@@ -1,4 +1,4 @@
-# ssb-uadio-schema
+# ssb-audio-schema
 
 a module which provides you schemas and validators for audio messages
 
