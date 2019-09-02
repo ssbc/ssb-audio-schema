@@ -39,7 +39,7 @@ isAudio(Object, { attachErrors: true })
 ## Notes of fields
 
 Field | type | description
----|---
+---|---|---
 `type` | String| must be "audio"
 `blob` | String | has to be a valid ssb-blob ref
 `format` | String | (optional) min-length of 2, [see IANA audio formats](https://www.iana.org/assignments/media-types/media-types.xhtml#audio)
