@@ -1,6 +1,6 @@
 {
   "name": "ssb-audio-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JSON schemas + validators for audio messages",
   "main": "index.js",
   "scripts": {
